@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Tansexi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Tansexi alex
+- 👀 I’m interested in several things
+- 🌱 I’m currently learning How to code
+- 💞️ I’m looking to collaborate on a new projet
+- 📫 How to reach me .
 
 <!---
 Tansexi/Tansexi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
